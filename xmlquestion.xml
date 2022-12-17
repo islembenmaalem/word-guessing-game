@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><Questions>
+
+
+<question id="1"><quest>Personne qui se consacre à la recherche scientifique</quest>
+<reponse>chercheur</reponse></question>
+<question id="2"><quest>vendre les fleurs</quest><reponse>fleuriste</reponse></question>
+<question id="3"><quest>enseigne</quest><reponse>maitre</reponse></question>
+<question id="4"><quest>question 1</quest><reponse>reponse1</reponse></question>
+<question id="5"><quest>question 2</quest><reponse>reponse1</reponse></question>
+<question id="6"><quest>question 3</quest><reponse>reponse3</reponse></question>
+<question id="7"><quest>question 4</quest><reponse>reponse4</reponse></question>
+</Questions>
